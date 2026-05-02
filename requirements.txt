@@ -1,1 +1,6 @@
-pyarrow
+fastapi
+uvicorn
+pandas
+scikit-learn
+joblib
+xgboost
