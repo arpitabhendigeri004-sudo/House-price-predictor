@@ -63,8 +63,11 @@ house-price-advanced/
 
 ---
 ## Screenshot
-<img width="960" height="540" alt="ss10" src="https://github.com/user-attachments/assets/36eed435-1f22-4728-9fd6-a7126f75fff9" />
-<img width="960" height="540" alt="ss9" src="https://github.com/user-attachments/assets/cff8ff4a-abb2-44bc-b36b-5b3eedbaab1d" />
+<img width="960" height="540" alt="DASH SS1" src="https://github.com/user-attachments/assets/ffaedd8d-f318-4429-b228-2ff91d73bbec" />
+<img width="960" height="540" alt="ss4" src="https://github.com/user-attachments/assets/f7229db3-526d-426e-b565-19da72ce2681" />
+<img width="960" height="540" alt="ss5" src="https://github.com/user-attachments/assets/fdd77dd9-0ced-42db-8d41-8f6bfe74b5b4" />
+
+
 
 ## ⚙️ Setup Instructions
 
